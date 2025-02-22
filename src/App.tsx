@@ -152,7 +152,7 @@ function App() {
           <div className="flex justify-between items-center mb-6">
             <div className="flex items-center gap-4">
               <h1 className="text-2xl font-bold text-gray-800">
-                Calculadora de Notas
+                La Calcu del profe
               </h1>
               <div className="relative">
                 <button
